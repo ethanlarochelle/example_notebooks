@@ -3,4 +3,4 @@ The Git repository is to share generalized code samples that may be of use to ot
 
 ## Notebooks
 * [Example Box Plot](<Example Box Plot.ipynb>)
-* [Example CDose](<Example CDose Cherenkov 96-well.ipynb>)
+* [Example CDose](<Example CDose Cherenkov  96-well.ipynb>)
